@@ -1,0 +1,16 @@
+1	MQ-135	The MQ-135 is a gas sensor commonly used for air quality monitoring.
+		It can detect gases such as ammonia (NH3), nitrogen oxides (NOx), alcohol, benzene, smoke, and carbon dioxide (CO2).
+		The sensor provides both analog and digital outputs based on the intensity of the detected gas.
+		Widely used in air quality control equipment and environmental monitoring systems.
+2	DHT11	The DHT11 is a low-cost digital temperature and humidity sensor.
+		It provides relative humidity values (20% to 90% RH) and temperature values (0°C to 50°C) via a serial data interface.
+		Factory calibrated and easy to interface with microcontrollers.
+		Suitable for applications such as weather stations, indoor climate monitoring, and humidity-controlled environments.
+3	Pico W	The Raspberry Pi Pico W is based on the RP2040 microcontroller.
+		It adds on-board single-band 2.4GHz wireless (802.11n) connectivity.
+		Retains the Pico form factor, making it compatible with existing Pico projects.
+		Ideal for IoT projects, remote monitoring, and wireless communication.
+4	I2C Converter	An I2C (Inter-Integrated Circuit) serial interface adapter module.
+		Uses the PCF8574 chip to convert serial data to parallel data for controlling LCD panels.
+		Provides SDA (serial data) and SCL (serial clock) pins for communication with microcontrollers.
+		Allows easy interfacing of LCD displays with limited pin resources.
