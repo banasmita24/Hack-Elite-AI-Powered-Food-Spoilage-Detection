@@ -9,7 +9,7 @@ Integration of Raspberry pi pico W with sensors like DHT-11, MQ135 can also be s
 - [Tech Stack Used](#tech-stack-used)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
-- [Video/Presentation](#video-/-presentation)
+- [Video/Presentation](#video-presentation)
 
 ## Tech Stack Used
 
@@ -69,6 +69,7 @@ WebServer-and-IOT/
 ── README.md
 
 ```
+
 ## Video/Presentation
 
 **Drive link for Video/Presentation:** [Click Here!!](https://drive.google.com/drive/folders/1wlCWJa5w4xO2fOP7bD_pMEmbu4OIJsyT)
