@@ -6,8 +6,23 @@ Integration of Raspberry pi pico W with sensors like DHT-11, MQ135 can also be s
 
 ## Table of Contents
 
+- [Tech Stack Used](#tech-stack)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
+
+## Tech Stack Used
+
+- Deep Learning Framework: TensorFlow + Keras
+- Pre-trained Model: ResNet50 (for transfer learning)
+- Data Augmentation and Preprocessing: Keras ImageDataGenerator, OpenCV, NumPy
+- Optimizer: Adam
+- Model Export: HDF5 format (.h5) for saving the model
+- Microcontroller: Raspberry Pi Pico or similar
+- Sensors: DHT11 (temperature and humidity), MQ135 (gas sensor)
+- Display: I2C LCD (16x2)
+- Networking: WiFi (using network module), socket communication
+- Programming Language: MicroPython
+- Web Development: HTML, CSS, JavaScript for user interaction
 
 ## Installation
 
