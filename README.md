@@ -1,7 +1,7 @@
 # Hack-Elite-AI-Powered-Food-Spoilage-Detection
 
 ## Overview
-This project aims to develop an AI-powered food spoilage detection model using transfer learning with the Image captioning and ResNet50 architecture. The model classifies images of fruits as either fresh or spoiled/ healty or unhealthy, providing a valuable tool for reducing food waste and enhancing food safety.
+This project aims to develop an AI-powered food spoilage detection model using transfer learning with the Image captioning and ResNet50 architecture. The model classifies images of food as either fresh or spoiled/ healty or unhealthy, providing a valuable tool for reducing food waste and enhancing food safety.
 Integration of Raspberry pi pico W with sensors like DHT-11, MQ135 can also be seen. 
 
 ## Table of Contents
