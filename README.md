@@ -4,6 +4,9 @@
 This project aims to develop an AI-powered food spoilage detection model using transfer learning with the Image captioning and ResNet50 architecture. The model classifies images of food as either fresh or spoiled/ healty or unhealthy, providing a valuable tool for reducing food waste and enhancing food safety.
 Integration of Raspberry pi pico W with sensors like DHT-11, MQ135 can also be seen. 
 
+![image](https://github.com/user-attachments/assets/932fc3df-3298-4d39-8d7a-b7e1a9b4a8a3)
+
+
 ## Table of Contents
 
 - [Tech Stack Used](#tech-stack-used)
